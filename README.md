@@ -1,0 +1,1 @@
+this is my first python game. I was inspired by this idea when my friend played the minesweeper and I asked him to teach me how to play. And from that moment on, I decided to make my own minesweeper, which I will modify. I really need your assessment and suggestions for improving the game.
